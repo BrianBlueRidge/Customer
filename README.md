@@ -1,2 +1,2 @@
-# Customer
+# Customers
 Group Project
